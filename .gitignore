@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.streamlit/
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+data/
+models/
+*.h5
+*.zip
+.DS_Store
+Thumbs.db
