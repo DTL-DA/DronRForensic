@@ -12,3 +12,8 @@ models/
 *.zip
 .DS_Store
 Thumbs.db
+/test_data.txt
+
+credentials/
+
+credentials/
